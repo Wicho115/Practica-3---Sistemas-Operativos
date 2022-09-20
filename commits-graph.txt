@@ -1,0 +1,23 @@
+* ee785f2 Haciendo cambios
+*   e2e77fb Merge branch 'js'
+|\  
+| * ac9acc1 Creando archivo script.js ne la rama js
+* | 806ae78 Alterando index.html en la rama main
+* |   61d9c7e Merge branch 'css'
+|\ \  
+| * | e90e978 Agregando cambios de index.html desde rama css
+* | | 4ba8d5a Alterando index.html en la rama main
+|/ /  
+* | 8dc74ff Cambio css
+* | 0f760f1 Añadiendo hoja de estilos
+* | 322b9cf Crear index.html desde rama html
+|/  
+*   d2e174e Merge branch 'main' of https://github.com/Wicho115/Practica-3---Sistemas-Operativos
+|\  
+| * 5e667f8 Agregando licencia al repositorio
+* | 779c81a Ignorar OS X temp
+|/  
+* c9dd858 Creando archivo .gitignore
+* 44e4638 Agregando enlace de la practica 4
+* c1ec1c6 gitignore
+* b15e974 First Commit
