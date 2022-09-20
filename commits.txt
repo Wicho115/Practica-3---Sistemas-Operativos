@@ -1,0 +1,128 @@
+commit 4985b5e7e47daf7ae265d91ad68c65e88429905d
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 20 10:16:49 2022 -0500
+
+    Agregando enlace de la práctica 1 del parcial 2
+
+commit e04b11457bc47bdc753266e152edd4b750ccd001
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 20 09:40:44 2022 -0500
+
+    v1.0.0
+
+commit 775c55a07f739f3a997309fe91d7376820321c74
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 20 09:29:29 2022 -0500
+
+    Creando archivo hola.txt
+
+commit a6e2e2ffbe6d578e21c61d6a1631b9b0ed84a0bd
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 20 09:26:29 2022 -0500
+
+    Agregando cosas de graphs
+
+commit ee785f23f4e3e0739c365c3b3227a554bb01fc34
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 20 09:13:02 2022 -0500
+
+    Haciendo cambios
+
+commit e2e77fb35eef57f81c2041b170f3929c94114c61
+Merge: 806ae78 ac9acc1
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:35:43 2022 -0500
+
+    Merge branch 'js'
+
+commit 806ae78c087be00b8889991aca58b9fd795727ef
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:35:18 2022 -0500
+
+    Alterando index.html en la rama main
+
+commit 61d9c7ec8ea014451697e47fb14fb67d256cd6b8
+Merge: 4ba8d5a e90e978
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:33:56 2022 -0500
+
+    Merge branch 'css'
+
+commit 4ba8d5af8e921d01ecd0c64ae13acc8ac6ff891b
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:33:37 2022 -0500
+
+    Alterando index.html en la rama main
+
+commit e90e97836a035e739c20eb3aac4e4b25651455e7
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:26:57 2022 -0500
+
+    Agregando cambios de index.html desde rama css
+
+commit 8dc74ffb6a56dc78c178719569d3edc8da34532b
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:22:10 2022 -0500
+
+    Cambio css
+
+commit ac9acc16961ad7ca75c5630e004f9133fe0e7c5e
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:08:49 2022 -0500
+
+    Creando archivo script.js ne la rama js
+
+commit 0f760f129006433a084ed95c0ac3db115e123def
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 10:02:39 2022 -0500
+
+    Añadiendo hoja de estilos
+
+commit 322b9cfc834ecd1a8b733f96454f73bb1d603745
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 09:49:59 2022 -0500
+
+    Crear index.html desde rama html
+
+commit d2e174e6252b9417fe10de751b841494b813a2cf
+Merge: 779c81a 5e667f8
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 09:33:28 2022 -0500
+
+    Merge branch 'main' of https://github.com/Wicho115/Practica-3---Sistemas-Operativos
+
+commit 779c81a830643add271d08478e5b6d11e8623c9e
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 13 09:32:50 2022 -0500
+
+    Ignorar OS X temp
+
+commit 5e667f8b74ebff161827e59841a7a24918ffb45e
+Author: Dante <61216048+Wicho115@users.noreply.github.com>
+Date:   Tue Sep 6 21:28:43 2022 -0500
+
+    Agregando licencia al repositorio
+
+commit c9dd858df1894e4c30f8b82532d041fb648d8ca8
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 6 21:18:36 2022 -0500
+
+    Creando archivo .gitignore
+
+commit 44e4638a004061864ae9e81fdebddda68ba44532
+Author: Dante <martin.velazquez.luis.alfonso@gmail.com>
+Date:   Tue Sep 6 20:57:54 2022 -0500
+
+    Agregando enlace de la practica 4
+
+commit c1ec1c6ab690f774a92ecba1e3012ee2357203e3
+Author: Alzound <61034726+Alzound@users.noreply.github.com>
+Date:   Mon Sep 5 08:54:24 2022 -0500
+
+    gitignore
+
+commit b15e9740b499afd9eed5757f52c431ba988f59b5
+Author: Alzound <61034726+Alzound@users.noreply.github.com>
+Date:   Mon Sep 5 08:36:39 2022 -0500
+
+    First Commit

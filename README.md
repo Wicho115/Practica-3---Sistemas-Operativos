@@ -10,4 +10,4 @@
 
 Haciendo cambios y prbando la opción amend
 
-Creadno la version _1.0.0_ de nuestro repositorio
+Creando la version _1.0.0_ de nuestro repositorio
